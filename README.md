@@ -56,7 +56,7 @@ This project is a custom 4-layer ESP32 development board designed in KiCad using
 * PCB Layout (.kicad_pcb)
 * Gerber Files
 * Drill Files
-* Bill of Materials (BOM)
+
 
 ## References
 
